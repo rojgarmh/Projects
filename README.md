@@ -1,0 +1,1 @@
+Developing a desktop music player application using C#. This application will be designed to play music files, providing a user-friendly interface for browsing and managing playlists. It will include features such as play, pause, stop, skip, and volume control. 
